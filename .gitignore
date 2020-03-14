@@ -1,0 +1,8 @@
+bin/
+obj/
+*.cbp
+*.tar.gz
+*.dll
+*.depend
+*.layout
+SDL2*/
